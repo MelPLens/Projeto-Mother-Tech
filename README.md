@@ -8,12 +8,16 @@ Promovemos a reutilização, reparo e reciclagem de produtos de hardware para re
 ### Produtos
 
 *Componentes de hardware* 
+
 Como processadores, placas-mãe, placas de vídeo, memória RAM, discos rígidos, SSDs e fontes de alimentação. Esses componentes são essenciais para montar ou atualizar seu próprio sistema de computador.
 
 *Periféricos*
+
 Como teclados, mouses, monitores, impressoras, scanners e câmeras. Esses dispositivos auxiliares complementam seu sistema principal e melhoram a experiência de uso.
 
-*Redes e conectividade* Fornecemos soluções de rede, incluindo roteadores, switches, adaptadores Wi-Fi e cabos de rede.
+*Redes e conectividade*
+
+Fornecemos soluções de rede, incluindo roteadores, switches, adaptadores Wi-Fi e cabos de rede.
 
 
 Lembramos que nossa seleção de produtos está em constante atualização para atender às demandas do mercado e às necessidades dos clientes. Entre em contato conosco ou visite nossa loja para explorar todos os produtos disponíveis e encontrar as melhores soluções para suas necessidades tecnológicas.
