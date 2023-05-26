@@ -23,11 +23,15 @@ Fornecemos soluções de rede, incluindo roteadores, switches, adaptadores Wi-Fi
 
 ### Equipe :dart:
 
-Mel Plens 
-Lincoln
-Samuel
-Guilherme
-João
+:small_blue_diamond: Mel Plens 
 
-###Lembrete:mega:
+:small_blue_diamond: Lincoln
+
+:small_blue_diamond: Samuel
+
+:small_blue_diamond: Guilherme
+
+:small_blue_diamond: João
+
+### Lembrete:mega:
 Lembramos que nossa seleção de produtos está em constante atualização para atender às demandas do mercado e às necessidades dos clientes. Entre em contato conosco ou visite nossa loja para explorar todos os produtos disponíveis e encontrar as melhores soluções para suas necessidades tecnológicas.
