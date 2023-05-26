@@ -7,7 +7,7 @@ Promovemos a reutilização, reparo e reciclagem de produtos de hardware para re
 
 
 
-### Produtos
+### Produtos:computer:
 
 *Componentes de hardware* 
 
