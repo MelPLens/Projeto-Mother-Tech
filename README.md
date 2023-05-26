@@ -29,5 +29,4 @@ Promovemos a reutilização, reparo e reciclagem de produtos de hardware para re
 
 :small_blue_diamond: João
 
-### Lembrete:mega:
-Lembramos que nossa seleção de produtos está em constante atualização para atender às demandas do mercado e às necessidades dos clientes. Entre em contato conosco ou visite nossa loja para explorar todos os produtos disponíveis e encontrar as melhores soluções para suas necessidades tecnológicas.
+
