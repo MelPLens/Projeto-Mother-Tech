@@ -21,5 +21,13 @@ Como teclados, mouses, monitores, impressoras, scanners e câmeras. Esses dispos
 
 Fornecemos soluções de rede, incluindo roteadores, switches, adaptadores Wi-Fi e cabos de rede.
 
+### Equipe :dart:
 
+Mel Plens 
+Lincoln
+Samuel
+Guilherme
+João
+
+###Lembrete:mega:
 Lembramos que nossa seleção de produtos está em constante atualização para atender às demandas do mercado e às necessidades dos clientes. Entre em contato conosco ou visite nossa loja para explorar todos os produtos disponíveis e encontrar as melhores soluções para suas necessidades tecnológicas.
