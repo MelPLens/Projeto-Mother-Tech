@@ -1,5 +1,5 @@
 # Seja bem-vindo(a) à Mother Tech!
-:grey_question:### Quem somos
+### Quem somos :grey_question:
 A Mother Tech é uma empresa especializada em varejo de hardware. Nossa paixão pela tecnologia e inovação nos impulsiona a oferecer produtos de alta qualidade e soluções avançadas para nossos clientes. Com uma equipe experiente e comprometida, estamos prontos para atender às suas necessidades tecnológicas.
 
 ### Economia Circular
