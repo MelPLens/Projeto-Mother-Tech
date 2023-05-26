@@ -17,9 +17,7 @@ Como processadores, placas-mãe, placas de vídeo, memória RAM, discos rígidos
 
 Como teclados, mouses, monitores, impressoras, scanners e câmeras. Esses dispositivos auxiliares complementam seu sistema principal e melhoram a experiência de uso.
 
-:small_blue_diamond:*Redes e conectividade*
 
-Fornecemos soluções de rede, incluindo roteadores, switches, adaptadores Wi-Fi e cabos de rede.
 
 ### Equipe :dart:
 
