@@ -2,10 +2,6 @@
 ### Quem somos :grey_question:
 A Mother Tech é uma empresa especializada em varejo de hardware. Nossa paixão pela tecnologia e inovação nos impulsiona a oferecer produtos de alta qualidade e soluções avançadas para nossos clientes. Com uma equipe experiente e comprometida, estamos prontos para atender às suas necessidades tecnológicas.
 
-### Economia Circular :deciduous_tree:
-Promovemos a reutilização, reparo e reciclagem de produtos de hardware para reduzir o desperdício. Buscamos prolongar a vida útil dos dispositivos e minimizar o impacto ambiental. Junte-se a nós nesse compromisso sustentável!
-
-
 
 ### Produtos:computer:
 
@@ -17,6 +13,8 @@ Como processadores, placas-mãe, placas de vídeo, memória RAM, discos rígidos
 
 Como teclados, mouses, monitores, impressoras, scanners e câmeras. Esses dispositivos auxiliares complementam seu sistema principal e melhoram a experiência de uso.
 
+### Economia Circular :deciduous_tree:
+Promovemos a reutilização, reparo e reciclagem de produtos de hardware para reduzir o desperdício. Buscamos prolongar a vida útil dos dispositivos e minimizar o impacto ambiental. Junte-se a nós nesse compromisso sustentável!
 
 
 ### Equipe :dart:
